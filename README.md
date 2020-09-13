@@ -4,7 +4,7 @@ Help, Guidance &amp; Assistance for people who help/have trouble with coding for
   <ul>
     <li>Reducing the number of isssues being posted, so the forums can be less packed with unanswered threads</li>
     <li>More people will get more help; That which entaiks them telling their friends and GitHub getting more traffic</li>
-  </ul><br />
+  </ul><br /> 
 
 
 <p>I am looking to form a team of members who are experts at website developent and know their codes <em>(I.e: HTML/XHTML, CSS, JS, PHP, Java, C, C++, Python, C#, Ruby and Perl.)</em> & know their way around these languages, whether you're a frontend developer, backend developer or a full stack developer (I myself am a fluent full-stack developer <b>[Knows EVERYTHING about them front & back end development</b> Reach out to me as we can communicate on discord; here or email: designsbymye@gmail.com
