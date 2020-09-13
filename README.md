@@ -20,7 +20,8 @@ I myself have a bachelor's degree in website development and graphic desig & hop
 </ol>
   <br />
 The bottom line is simple: I am seeking members who wish to help with issues above and others that arise our way. We all know since the COVID situation and containment, a majority of us are stuck at home, which means online's traffic is most likely higher than it's <strong>everr, ever</strong> been, and will just increase. Just forming a group that wants to help - & if there become enough members who need help & apply to help longside me, then there will be a website created, as well.<br /> <br />
-<rm>Other methods of contact</em>:<br />
- <a href="https://www.facebook.com/eymahdy"> Facebook</a> |  <a href="mailto:designsbymye@gmail.com?subject=Mahdy%2C%20I%20would%20love%20to%20help!&body=Hey%2C%20Mahdy!%20I%20would%20love%20to%20join%20to%20help.%20My%20resume%3A"> Direct link for those who want to be part of the team</a> | <a href="mailto:designsbymye@gmail.com?subject=Mahdy%2C%20I%20need%20help..%20&body=I%20need%20help%20with....%20"> Direct email link for those who need help/assistance</a><br />
+<h2><em>Other methods of contact</h2></em>:<br />
+
+ 
 -M.E
-<p style="color:DodgerBlue;">This took me quite sometime to write out, typing out the codes manually, etc - If this project is not allowed, please notify me and, if possible, close it instead of delete, because all I am trying to do is help.</p>
+This took me quite sometime to write out, typing out the codes manually, etc - If this project is not allowed, please notify me and, if possible, close it instead of delete, because all I am trying to do is help.
